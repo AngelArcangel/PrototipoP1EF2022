@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1655396389 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
+1655397853 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -8,4 +8,27 @@
 	<cstdlib>
 	<ctime>
 	<string.h>
+	"ClsCatalogos.h"
+
+1655397919 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clscatalogos.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1655400240 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
+	"ClsCatalogos.h"
+	"ClsClientes.h"
+
+1655400361 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
 

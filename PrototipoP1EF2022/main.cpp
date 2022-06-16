@@ -10,6 +10,8 @@
 #define ENTER 13
 #define BACKSPACE 8
 
+#include "ClsCatalogos.h"
+
 using namespace std;
 
 typedef struct {
@@ -164,7 +166,8 @@ void login(){
                 {
                 case 1:
                     {
-
+                        ClsCatalogos menucatalogo;
+                        menucatalogo.mmenuCatalogos();
                     }
                     break;
                 case 2:
