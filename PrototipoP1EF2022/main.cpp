@@ -155,10 +155,11 @@ void login(){
                 cout<<"1. CATALOGOS"<<endl;
                 cout<<"2. PROCESOS"<<endl;
                 cout<<"3. INFORMES"<<endl;
+                cout<<"4. USUARIOS"<<endl;
                 cout<<"0. EXIT"<<endl;
 
                 cout<<"-------------------------------"<<endl;
-                cout<<"OPCIONES A ESCOGER :     [1/2/3/0]"<<endl;
+                cout<<"OPCIONES A ESCOGER :     [1/2/3/4/0]"<<endl;
                 cout<<"-------------------------------"<<endl;
                 cout<<"INGRESA TU OPCION : ";
                 cin>>imenuPrincipal;
@@ -178,6 +179,13 @@ void login(){
                 case 3:
                     {
 
+                    }
+                    break;
+                case 4:
+                    {
+                        system("cls");
+                        cargar();
+                        pausa();
                     }
                     break;
                 case 0:

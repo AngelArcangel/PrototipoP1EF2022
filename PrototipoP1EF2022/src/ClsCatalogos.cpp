@@ -1,5 +1,6 @@
 #include "ClsCatalogos.h"
 #include "ClsClientes.h"
+#include "ClsProveedores.h"
 
 using namespace std;
 
@@ -18,7 +19,7 @@ ClsCatalogos::mmenuCatalogos()
         system("cls");
 
         cout<<"---------------------------------"<<endl;
-        cout<<"|-------SISTEMA CATALOGOs-------|"<<endl;
+        cout<<"|-------SISTEMA CATALOGOS-------|"<<endl;
         cout<<"---------------------------------"<<endl;
         cout<<"1. CLIENTES"<<endl;
         cout<<"2. PROVEEDORES"<<endl;
@@ -40,7 +41,8 @@ ClsCatalogos::mmenuCatalogos()
                 break;
             case 2:
                 {
-
+                    ClsProveedores proveedores;
+                    proveedores.mmenuProveedores();
                 }
                 break;
             case 3:

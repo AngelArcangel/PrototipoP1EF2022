@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1655397853 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
+1655403832 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -20,9 +20,10 @@
 	<ctime>
 	<string.h>
 
-1655400240 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
+1655406991 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
 	"ClsCatalogos.h"
 	"ClsClientes.h"
+	"ClsProveedores.h"
 
 1655403303 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
 	<conio.h>
@@ -32,7 +33,7 @@
 	<iomanip>
 	<cstdlib>
 
-1655402491 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsclientes.cpp
+1655403431 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsclientes.cpp
 	"ClsClientes.h"
 	<conio.h>
 	<iostream>
@@ -42,4 +43,23 @@
 	<cstdlib>
 	<ctime>
 	<string.h>
+
+1655406927 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsproveedores.cpp
+	"ClsProveedores.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1655406592 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsproveedores.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
 
