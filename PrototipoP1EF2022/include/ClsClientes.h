@@ -33,6 +33,15 @@ class ClsClientes
         mmenuCliente();
         mcrearClientes();
 
+        void nuevoCliente( fstream& );
+        void consultarRegistroClientes(fstream&);
+        void mostrarLineaPantallaClientes(const ClsClientes &);
+        void actualizarRegistroClientes(fstream&);
+        void mostrarLineaClientes( ostream&, const ClsClientes & );
+        void imprimirRegistroClientes( fstream& );
+        void eliminarRegistroClientes( fstream& );
+        void buscarClientes( fstream& );
+
     protected:
 
     private:

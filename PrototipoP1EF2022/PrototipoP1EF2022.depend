@@ -24,11 +24,22 @@
 	"ClsCatalogos.h"
 	"ClsClientes.h"
 
-1655400361 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
+1655403303 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
 	<conio.h>
 	<iostream>
 	<fstream>
 	<string>
 	<iomanip>
 	<cstdlib>
+
+1655402491 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsclientes.cpp
+	"ClsClientes.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
 
