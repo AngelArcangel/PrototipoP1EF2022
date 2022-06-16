@@ -36,9 +36,11 @@
 		</Compiler>
 		<Unit filename="include/ClsCatalogos.h" />
 		<Unit filename="include/ClsClientes.h" />
+		<Unit filename="include/ClsProveedores.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/ClsCatalogos.cpp" />
 		<Unit filename="src/ClsClientes.cpp" />
+		<Unit filename="src/ClsProveedores.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
