@@ -2,6 +2,7 @@
 #include "ClsClientes.h"
 #include "ClsProveedores.h"
 #include "ClsProductos.h"
+#include "ClsVenta.h"
 
 using namespace std;
 
@@ -22,9 +23,10 @@ ClsCatalogos::mmenuCatalogos()
         cout<<"---------------------------------"<<endl;
         cout<<"|-------SISTEMA CATALOGOS-------|"<<endl;
         cout<<"---------------------------------"<<endl;
-        cout<<"1. CLIENTES"<<endl;
-        cout<<"2. PROVEEDORES"<<endl;
-        cout<<"3. PRODUCTOS"<<endl;
+        cout<<"1. VENTA"<<endl;
+        cout<<"2. CLIENTES"<<endl;
+        cout<<"3. PROVEEDORES"<<endl;
+        cout<<"4. PRODUCTOS"<<endl;
         cout<<"0. EXIT"<<endl;
 
         cout<<"-------------------------------"<<endl;
@@ -36,17 +38,23 @@ ClsCatalogos::mmenuCatalogos()
         {
             case 1:
                 {
+                    ClsVenta venta;
+                    venta.mmenuVenta();
+                }
+                break;
+            case 2:
+                {
                     ClsClientes clientes;
                     clientes.mmenuCliente();
                 }
                 break;
-            case 2:
+            case 3:
                 {
                     ClsProveedores proveedores;
                     proveedores.mmenuProveedores();
                 }
                 break;
-            case 3:
+            case 4:
                 {
                     ClsProductos productos;
                     productos.mmenuProductos();

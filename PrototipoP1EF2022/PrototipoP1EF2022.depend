@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1655403832 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
+1655410370 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -20,11 +20,12 @@
 	<ctime>
 	<string.h>
 
-1655409915 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
+1655414670 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
 	"ClsCatalogos.h"
 	"ClsClientes.h"
 	"ClsProveedores.h"
 	"ClsProductos.h"
+	"ClsVenta.h"
 
 1655407322 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
 	<conio.h>
@@ -76,6 +77,38 @@
 	<string.h>
 
 1655409859 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsproductos.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+
+1655411296 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsinformes.cpp
+	"ClsInformes.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1655411138 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsinformes.h
+
+1655414598 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsventa.cpp
+	"ClsVenta.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1655415803 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsventa.h
 	<conio.h>
 	<iostream>
 	<fstream>
