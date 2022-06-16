@@ -140,7 +140,7 @@ void login(){
         {
             cout<<endl<<endl<<"Realizo login exitoso"<<endl;
             getch();
-            /*int imenuPrincipal=0;
+            int imenuPrincipal=0;
 
             //Menu principal
             do
@@ -187,7 +187,7 @@ void login(){
                     getch();
                     break;
                 }
-            }while(imenuPrincipal!=0);*/
+            }while(imenuPrincipal!=0);
         }
 
     fclose(arch);
