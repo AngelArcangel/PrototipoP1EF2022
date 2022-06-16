@@ -1,6 +1,7 @@
 #include "ClsCatalogos.h"
 #include "ClsClientes.h"
 #include "ClsProveedores.h"
+#include "ClsProductos.h"
 
 using namespace std;
 
@@ -47,7 +48,8 @@ ClsCatalogos::mmenuCatalogos()
                 break;
             case 3:
                 {
-
+                    ClsProductos productos;
+                    productos.mmenuProductos();
                 }
                 break;
             case 0:
