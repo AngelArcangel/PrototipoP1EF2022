@@ -1,0 +1,3 @@
+Id       Nombre:             Marca:              Existencia:         
+1        Manzana             Sabemas             29                  
+2        Plancha             Pluster             15                  

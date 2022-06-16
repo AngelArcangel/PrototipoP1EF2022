@@ -20,12 +20,13 @@
 	<ctime>
 	<string.h>
 
-1655406991 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
+1655409915 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clscatalogos.cpp
 	"ClsCatalogos.h"
 	"ClsClientes.h"
 	"ClsProveedores.h"
+	"ClsProductos.h"
 
-1655403303 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
+1655407322 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsclientes.h
 	<conio.h>
 	<iostream>
 	<fstream>
@@ -56,6 +57,25 @@
 	<string.h>
 
 1655406592 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsproveedores.h
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+
+1655409847 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\src\clsproductos.cpp
+	"ClsProductos.h"
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
+1655409859 c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\include\clsproductos.h
 	<conio.h>
 	<iostream>
 	<fstream>
