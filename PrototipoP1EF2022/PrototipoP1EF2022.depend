@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655396389 source:c:\users\arcangel\desktop\clases\semestre3\programacioni\git\prototipop1ef2022\prototipop1ef2022\main.cpp
+	<conio.h>
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<string.h>
+
